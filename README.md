@@ -25,3 +25,11 @@ Demo for creating scaffold for python project
 * make install
 * make lint
 * make test
+
+## Push Code to GitHub
+* git status
+* git config --global user.name "Tish Nicholson"
+* git config --global user.email "nichtea01@gmail.com"
+* git add .
+* git commt -m "add initial code"
+* git push 
