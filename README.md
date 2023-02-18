@@ -2,7 +2,7 @@
 Demo for creating scaffold for python project
 
 ## Create Repo and Copy to Cloud Environment
-* Create Github Repo [scaffold-python]()
+* Create Github Repo [scaffold-python](https://github.com/nichtea01/scaffold-python)
 * Open Azure [Cloud Shell](https://portal.azure.com/#allservices/category/All)
 * Create ssh-keys in Azure Cloud Shell: ssh-keygen -t rsa
 * copy .ssh/id_rsa.pub and upload to GitHub
