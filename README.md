@@ -11,9 +11,17 @@ Demo for creating scaffold for python project
 ## Clone Repo to Cloud Environment
 * git clone [git@github.com:nichtea01/scaffold-python.git](git@github.com:nichtea01/scaffold-python.git) 
 * add files below for python scaffold
-  - [ ] Makefile
-  - [ ] requirements.txt
-  - [ ] hello.py
-  - [ ] test_hello.Python
+  - [x] Makefile
+  - [x] requirements.txt
+  - [x] hello.py
+  - [x] test_hello.py
 
 ## Setup Pyton Virtual Environment
+* check python version: python3 -V 
+* setup virtual environment: python3 -m venv ~/.scaffold-python
+* activate virutal environment: source ~/.scaffold-python/bin/activate
+
+## Run Tests
+* make install
+* make lint
+* make test
