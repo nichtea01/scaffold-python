@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/nichtea01/scaffold-python/actions/workflows/main.yml/badge.svg)](https://github.com/nichtea01/scaffold-python/actions/workflows/main.yml)
+
 # Scaffold for Python Project 
 Demo for creating scaffold for python project
 
